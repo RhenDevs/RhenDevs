@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/Sean-Brix/Sean-Brix/master/resources/banner.jpg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/banner.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sean-Brix/count.svg" />
+  <img src="https://profile-counter.glitch.me/RhenDevs/count.svg" />
 </p>
 
 ## About me 💻
@@ -39,18 +39,18 @@ I'm always curious about how things work under the hood, and I love learning new
 
 <p align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=gruvbox" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Sean-Brix&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RhenDevs&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhenDevs&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=RhenDevs&theme=gruvbox" alt="GitHub Streak" />
   <br />
 </p>
 
 ## Let's Connect! 🌐
 <p align="center" style="margin: 10px 30px;">
-  <a href="https://www.linkedin.com/in/Sean-Brix/" target="_blank">
+  <a href="https://www.linkedin.com/in/RhenDevs/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Sean-Brix" target="_blank">
+  <a href="https://github.com/RhenDevs" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/kcsean.calinao" target="_blank">
