@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/banner.jpg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/ME.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -30,12 +30,12 @@ I'm always curious about how things work under the hood, and I love learning new
 </p>
 
 ## Current Focus 🎯
+
 - Learning more about web architecture
 - Building scalable web applications
 - Learning cloud technologies
 - Contributing to open source
 - Looking into NextJS Framework
-
 
 <p align="center">
   <br />
@@ -46,6 +46,7 @@ I'm always curious about how things work under the hood, and I love learning new
 </p>
 
 ## Let's Connect! 🌐
+
 <p align="center" style="margin: 10px 30px;">
   <a href="https://www.linkedin.com/in/RhenDevs/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
