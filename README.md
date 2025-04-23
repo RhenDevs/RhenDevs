@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/ME.jpg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/ME.jpg" alt="Hello world" height="500px">
 
 <p align="center"> 
   Visitor count<br>
