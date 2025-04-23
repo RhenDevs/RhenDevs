@@ -9,9 +9,14 @@
 
 ## About me 💻
 
-Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas into real-world applications. I specialize in building clean, responsive web apps using React, Node.js, and MongoDB. I'm a big fan of writing scalable backend logic and crafting intuitive UI experiences.
+I'm a passionate **Front-End Developer** who thrives on bringing designs to life with elegant code. 🚀 I specialize in crafting **responsive, user-friendly interfaces** that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
 
-I'm always curious about how things work under the hood, and I love learning new tools, patterns, and best practices. Whether it's writing efficient APIs or creating pixel-perfect designs, I care about both code quality and user experience.
+## 🎯 My Focus
+I’m constantly exploring new front-end technologies, striving to create **accessible, interactive, and visually stunning** applications. Collaboration and problem-solving fuel my creativity! 
+- **Performance Optimization** – Enhancing website speed and responsiveness for a smoother user experience.   
+- **UI/UX Improvements** – Refining interfaces to be more intuitive, accessible, and visually engaging.  
+- **Animations & Microinteractions** – Bringing designs to life with CSS animations and frameworks like Framer Motion.  
+I'm always eager to learn and collaborate on exciting projects—let’s build something amazing together! 🚀  
 
 <p><br /></p>
 
@@ -21,17 +26,9 @@ I'm always curious about how things work under the hood, and I love learning new
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin: 0 40px" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 0 40px" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 40px" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="margin: 0 40px" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="margin: 0 40px" />
   <br />
 </p>
-
-## Current Focus 🎯
-
-- Learning more about web architecture
-- Building scalable web applications
-- Learning cloud technologies
-- Contributing to open source
-- Looking into NextJS Framework
 
 <p align="center">
   <br />
