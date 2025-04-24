@@ -15,7 +15,8 @@ I'm a passionate **Front-End Developer** who thrives on bringing designs to life
 I’m constantly exploring new front-end technologies, striving to create **accessible, interactive, and visually stunning** applications. Collaboration and problem-solving fuel my creativity! 
 - **Performance Optimization** – Enhancing website speed and responsiveness for a smoother user experience.   
 - **UI/UX Improvements** – Refining interfaces to be more intuitive, accessible, and visually engaging.  
-- **Animations & Microinteractions** – Bringing designs to life with CSS animations and frameworks like Framer Motion.  
+- **Animations & Microinteractions** – Bringing designs to life with CSS animations and frameworks like Framer Motion.
+ <br>  
 I'm always eager to learn and collaborate on exciting projects—let’s build something amazing together! 🚀  
 
 <p><br /></p>
