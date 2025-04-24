@@ -34,7 +34,6 @@ I'm always eager to learn and collaborate on exciting projects—let’s build s
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=RhenDevs&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhenDevs&layout=compact&theme=gruvbox" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=RhenDevs&theme=gruvbox" alt="GitHub Streak" />
   <br />
 </p>
 
