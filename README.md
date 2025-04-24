@@ -1,13 +1,13 @@
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/RHENZY.jpg" alt="Hello world" height="500px">
 </p>
-
+<h1 align="Center">RhenDevs</h1>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RhenDevs/count.svg" />
 </p>
 
-## About me 💻
+_## About me 💻
 
 I'm a passionate **Front-End Developer** who thrives on bringing designs to life with elegant code. 🚀 I specialize in crafting **responsive, user-friendly interfaces** that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
 
@@ -19,7 +19,7 @@ I’m constantly exploring new front-end technologies, striving to create **acce
  <br>  
 I'm always eager to learn and collaborate on exciting projects—let’s build something amazing together! 🚀  
 
-<p><br /></p>
+<br />
 
 ## Skills & Technologies 🛠️
 
