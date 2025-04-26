@@ -1,16 +1,20 @@
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/RHENZY.jpg" alt="Hello world" height="500px">
+<img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/RHENZY.jpg" alt="Hello world" height="400px">
 </p>
-<h2 align="Center" font-size="35">RhenDevs <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b></b></h2>
+<h3 align="Center">RhenDevs <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/RhenDevs/count.svg" />
 </p>
 
-_## About me 💻
+## About me 💻
 
 I'm a passionate **Front-End Developer** who thrives on bringing designs to life with elegant code. 🚀 I specialize in crafting **responsive, user-friendly interfaces** that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
+
+<br>
 
 ## 🎯 My Focus
 I’m constantly exploring new front-end technologies, striving to create **accessible, interactive, and visually stunning** applications. Collaboration and problem-solving fuel my creativity! 
@@ -20,7 +24,9 @@ I’m constantly exploring new front-end technologies, striving to create **acce
  <br>  
 I'm always eager to learn and collaborate on exciting projects—let’s build something amazing together! 🚀  
 
-<br />
+<br/>
+
+<br>
 
 ## Skills & Technologies 🛠️
 
@@ -32,12 +38,20 @@ I'm always eager to learn and collaborate on exciting projects—let’s build s
   <br />
 </p>
 
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
+<br>
+
 <p align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=RhenDevs&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhenDevs&layout=compact&theme=gruvbox" alt="Top Languages" />
   <br />
 </p>
+<br/>
 
 ## Let's Connect! 🌐
 
