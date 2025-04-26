@@ -1,7 +1,7 @@
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/RHENZY.jpg" alt="Hello world" height="500px">
 </p>
-<h1 align="Center">RhenDevs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="50" height="50" /></h1>
+<h1 align="Center">RhenDevs <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b></b></h1>
 
 <p align="center"> 
   Visitor count<br>
