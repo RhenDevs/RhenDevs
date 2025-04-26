@@ -62,10 +62,10 @@ I'm always eager to learn and collaborate on exciting projects—let’s build s
   <a href="https://github.com/RhenDevs" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/kcsean.calinao" target="_blank">
+  <a href="(https://www.facebook.com/people/Rhenzy-Cruzat/pfbid02B3kSYchuc5mDzHPrPMKX6Wg6VCn4jEmnEZUfoZUk9kypKGBPp5FDzonoY9uKzc4yl/)" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:kcseancalinao@gmail.com">
+  <a href="mailto:rhenzycruzat254@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
