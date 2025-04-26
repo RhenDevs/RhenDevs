@@ -1,3 +1,5 @@
+
+
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/RHENZY.jpg" alt="Hello world" height="400px">
 </p>
@@ -29,12 +31,13 @@ I'm always eager to learn and collaborate on exciting projects—let’s build s
 <br>
 
 ## Skills & Technologies 🛠️
+<br/>
 
 <p align="center" style="margin: 10px 30px;">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin: 0 40px" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 0 40px" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 40px" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="margin: 0 40px" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin: 0 40px" width="195px" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 0 40px" width="150px"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 40px" width="130px"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="margin: 0 40px"width="170px" />
   <br />
 </p>
 
@@ -47,8 +50,9 @@ I'm always eager to learn and collaborate on exciting projects—let’s build s
 
 <p align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=RhenDevs&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhenDevs&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RhenDevs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RhenDevs Github Stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RhenDevs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RhenDevs Github Stats" width="300px">
+  
   <br />
 </p>
 <br/>
