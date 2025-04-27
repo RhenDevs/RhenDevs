@@ -13,9 +13,9 @@
 </p>
 
 ## About me 💻
-
+<p  align="justify">
 I'm a passionate **Front-End Developer** who thrives on bringing designs to life with elegant code. 🚀 I specialize in crafting **responsive, user-friendly interfaces** that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
-
+</p>
 <br>
 
 ## 🎯 My Focus
