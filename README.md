@@ -14,7 +14,7 @@
 
 ## About me 💻
 <p  align="justify">
-I'm a passionate **Front-End Developer** who thrives on bringing designs to life with elegant code. 🚀 I specialize in crafting responsive, user-friendly interfaces that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
+I'm a passionate Front-End Developer who thrives on bringing designs to life with elegant code. 🚀 I specialize in crafting responsive, user-friendly interfaces that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
 </p>
 <br>
 
@@ -24,7 +24,7 @@ I’m constantly exploring new front-end technologies, striving to create **acce
 - **UI/UX Improvements** – Refining interfaces to be more intuitive, accessible, and visually engaging.  
 - **Animations & Microinteractions** – Bringing designs to life with CSS animations and frameworks like Framer Motion.
  <br>  
-I'm always eager to learn and collaborate on exciting projects—let’s build something amazing together! 🚀  
+I'm always eager to learn and collaborate on exciting projects. Let’s build something amazing together! 🚀  
 
 <br/>
 
