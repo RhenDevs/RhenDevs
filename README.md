@@ -21,7 +21,8 @@ I'm a aspiring Front-End Developer who thrives on bringing designs to life with 
 <br>
 
 ## 🎯 My Focus
-I’m constantly exploring new front-end technologies, striving to create **accessible, interactive, and visually stunning applications**. Collaboration and problem-solving fuel my creativity! 
+I’m constantly exploring new front-end technologies, striving to create **accessible, interactive, and visually stunning applications**. Collaboration and problem-solving fuel my creativity!
+<br>
 - **Performance Optimization** – Enhancing website speed and responsiveness for a smoother user experience.   
 - **UI/UX Improvements** – Refining interfaces to be more intuitive, accessible, and visually engaging.  
 - **Animations & Microinteractions** – Bringing designs to life with CSS animations and frameworks like Framer Motion.
