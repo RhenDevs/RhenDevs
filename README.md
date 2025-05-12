@@ -41,6 +41,9 @@ I'm always eager to learn and collaborate on exciting projects. Let’s build so
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 0 40px" width="150px"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 40px" width="130px"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="margin: 0 40px"width="170px" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" style="margin: 0 40px" width="144px" />
+
+
   <br />
 </p>
 
