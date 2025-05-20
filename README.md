@@ -4,13 +4,14 @@
 <img src="https://raw.githubusercontent.com/RhenDevs/RhenDevs/master/resources/rhen.png" alt="Hello world" height="400px"> 
 </p>
 
-<p align="center">
-<img align="center" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="300">
-</p>
 
 <h3 align="Center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"></h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="300">
+</p>
 <br>
 <p align="center"> 
   Visitor count<br><br>
