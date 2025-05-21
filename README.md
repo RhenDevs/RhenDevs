@@ -18,24 +18,6 @@
   <img  src="https://profile-counter.glitch.me/RhenDevs/count.svg" />
 </p>
 
-## About me 💻
-<p  align="justify">
-I'm a aspiring Front-End Developer who thrives on bringing designs to life with elegant code. 
-<br><br>
-🚀 I specialize in crafting responsive, user-friendly interfaces that enhance the digital experience. Whether it's building sleek UI components or optimizing performance, I love every aspect of front-end development.
-</p>
-<br>
-
-## 🎯 My Focus
-I’m constantly exploring new front-end technologies, striving to create **accessible, interactive, and visually stunning applications**. Collaboration and problem-solving fuel my creativity!
-<br>
-- **Performance Optimization** – Enhancing website speed and responsiveness for a smoother user experience.   
-- **UI/UX Improvements** – Refining interfaces to be more intuitive, accessible, and visually engaging.  
-- **Animations & Microinteractions** – Bringing designs to life with CSS animations and frameworks like Framer Motion.
- <br>  
-I'm always eager to learn and collaborate on exciting projects. Let’s build something amazing together! 🚀  
-
-<br/>
 
 <br>
 
