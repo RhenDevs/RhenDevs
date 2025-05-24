@@ -21,7 +21,7 @@
 
 <br>
 
-## Skills & Technologies 🛠️
+## Tech Stacks 🛠️
 <br/>
 
 <p align="center" style="margin: 10px 30px;">
