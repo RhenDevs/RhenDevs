@@ -35,7 +35,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin: 0 40px" width="138px"/>
 
 
-  <elds.io/badgt-squgma&l
+
 
   <br />
 </p>
